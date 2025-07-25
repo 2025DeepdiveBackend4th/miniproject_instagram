@@ -26,6 +26,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+
+application.peroperties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
